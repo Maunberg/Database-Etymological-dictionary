@@ -18,3 +18,7 @@ f) years when words of all languages were added;
 g) the language for which no data was added in January 2018.
 
 h) change the name of the Persian language to Farsi
+
+Physical database scheme:
+
+![image](https://user-images.githubusercontent.com/102465657/215389394-19228d77-349f-405a-98ad-9588aca8a4fe.png)
